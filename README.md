@@ -1,6 +1,6 @@
 Opá! 👋 Eu sou Ian Ramos
 
-💻 Desenvolvedor em formação | Full Stack
+💻 Desenvolvedor em formação | F u l l  S t a c k
 
 🚀 Atualmente estou estudando Desenvolvimento Full Stack pelo DevClub, 
 construindo minha base em programação e desenvolvendo meus primeiros projetos.
